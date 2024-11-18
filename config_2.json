@@ -1,0 +1,94 @@
+
+//Очень долго работает. Второй вариант настроек ))
+
+
+{
+    "width": 3840,
+    "height": 2160,
+    "iterations": 100000000,
+    "symmetry": 12,
+    "gamma": 2.0,
+    "multiThreaded": true,
+    "threadCount": 8,
+    "outputFile": "amazing_fractal.png",
+    "transformations": [
+        {
+            "a": 0.7125,
+            "b": -0.4875,
+            "c": 0.0,
+            "d": 0.4875,
+            "e": 0.7125,
+            "f": 0.0,
+            "variations": [
+                {"name": "swirl", "weight": 0.5},
+                {"name": "julia", "weight": 0.5}
+            ],
+            "probability": 0.17
+        },
+        {
+            "a": 0.75,
+            "b": 0.0,
+            "c": -1.2,
+            "d": 0.0,
+            "e": 0.75,
+            "f": -1.2,
+            "variations": [
+                {"name": "julia", "weight": 0.6},
+                {"name": "spherical", "weight": 0.4}
+            ],
+            "probability": 0.16
+        },
+        {
+            "a": 0.6,
+            "b": -0.6,
+            "c": 1.2,
+            "d": 0.6,
+            "e": 0.6,
+            "f": 1.2,
+            "variations": [
+                {"name": "horseshoe", "weight": 0.5},
+                {"name": "waves", "weight": 0.5}
+            ],
+            "probability": 0.16
+        },
+        {
+            "a": 0.5,
+            "b": 0.5,
+            "c": 0.0,
+            "d": -0.5,
+            "e": 0.5,
+            "f": 0.0,
+            "variations": [
+                {"name": "exponential", "weight": 0.5},
+                {"name": "swirl", "weight": 0.5}
+            ],
+            "probability": 0.17
+        },
+        {
+            "a": 0.8,
+            "b": -0.2,
+            "c": 0.0,
+            "d": 0.2,
+            "e": 0.8,
+            "f": 0.0,
+            "variations": [
+                {"name": "julia", "weight": 0.4},
+                {"name": "waves", "weight": 0.6}
+            ],
+            "probability": 0.17
+        },
+        {
+            "a": 0.65,
+            "b": 0.35,
+            "c": -1.0,
+            "d": -0.35,
+            "e": 0.65,
+            "f": 1.0,
+            "variations": [
+                {"name": "sinusoidal", "weight": 0.7},
+                {"name": "spherical", "weight": 0.3}
+            ],
+            "probability": 0.17
+        }
+    ]
+}
