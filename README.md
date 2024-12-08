@@ -1,3 +1,6 @@
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/4f0f4a08-09fe-45db-aacd-479ea5d5976a">
+
+
 # Шаблон Java-проекта для домашних заданий
 
 Шаблон для домашних заданий [Академии Бэкенда 2024][course-url].
