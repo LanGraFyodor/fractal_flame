@@ -1,6 +1,6 @@
 package backend.academy;
 
-import java.awt.*;
+import java.awt.Color;
 
 /**
  * Класс для управления цветовой палитрой.
