@@ -1,4 +1,4 @@
-<img width="341" alt="image" src="https://github.com/user-attachments/assets/4f0f4a08-09fe-45db-aacd-479ea5d5976a">
+<img src="images/multi_thread_amazing_fractal2.png" style="width: 400px; object-fit: cover;"/> <img src="images/multi_thread_stunning_fractal.png" style="width: 400px; object-fit: cover;"/>
 
 
 # Шаблон Java-проекта для домашних заданий
