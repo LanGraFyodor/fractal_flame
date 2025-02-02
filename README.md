@@ -1,5 +1,4 @@
-
-<img width="341" alt="image" src="https://github.com/LanGraFyodor/fractal_flame/blob/master/multi_thread_amazing_fractal2.png?raw=true">
+<img width="341" alt="image" src="https://github.com/LanGraFyodor/fractal_flame/blob/master/multi_thread_stunning_fractal.png?raw=true"> <img width="341" alt="image" src="https://github.com/LanGraFyodor/fractal_flame/blob/master/multi_thread_amazing_fractal2.png?raw=true">
 
 # Шаблон Java-проекта для домашних заданий
 
