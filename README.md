@@ -1,5 +1,5 @@
-<img src="images/multi_thread_amazing_fractal2.png" style="width: 400px; object-fit: cover;"/> <img src="images/multi_thread_stunning_fractal.png" style="width: 400px; object-fit: cover;"/>
-
+single_thread_amazing_fractal2.png
+multi_thread_stunning_fractal.png
 
 # Шаблон Java-проекта для домашних заданий
 
